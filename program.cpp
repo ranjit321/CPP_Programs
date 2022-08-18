@@ -1,4 +1,4 @@
-/* Problem: Move all the negative elements to one side of the array */
+/* Problem: Program to  Move all the negative elements to one side of the array */
 
 #include <iostream>
 using namespace std;
